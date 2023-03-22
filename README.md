@@ -1,0 +1,2 @@
+# CricScraper
+Does stuff mmm
